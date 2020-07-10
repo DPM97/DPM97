@@ -9,7 +9,7 @@
 I often work on open source projects. Whether they are related to cars, sneakers, or any other coding-related concept I may find cool you can find them here. 
 
 ### Work 🔋
-I will be applying for summer 2021 internships. If you have any work inquiries you can reach out by email. From there I can provide more personal contact information.
+I will be applying to summer 2021 internships. If you have any work inquiries you can reach out by email. From there I can provide more personal contact information.
 
 ### Contact 📬
 - **[Twitter](https://twitter.com/TYPESCRlPT)**
