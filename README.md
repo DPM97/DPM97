@@ -1,16 +1,13 @@
-### Hi there 👋
+![line](https://github.com/DPM97/DPM97/blob/master/line.gif)
+## Hey 😳
+### I'm Dylan, a CS major currently studying at Tufts University 🏫.
 
-<!--
-**DPM97/DPM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Projects 🎨
+- 💻 **[Kleidi](https://kleidi.io)**, a user and payment manager suite.
+- 📱 **[Ligocard](https://ligo.best)**, a virtual business card application.
 
-Here are some ideas to get you started:
+### Contact 📬
+- **[Twitter](https://twitter.com/TYPESCRlPT)**
+- **[Email](mailto:dylan@kleidi.io)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![line](https://github.com/DPM97/DPM97/blob/master/line.gif)
