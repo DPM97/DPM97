@@ -1,5 +1,5 @@
 ![line](https://github.com/DPM97/DPM97/blob/master/line.gif)
-## I'm Dylan, a CS major @ Tufts 🏫.
+## I'm Dylan, a CS major @ Tufts
 
 ### Current Projects 🎨
 - 💻 **[Kleidi](https://kleidi.io)**, a user and payment manager suite.
