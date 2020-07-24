@@ -2,7 +2,7 @@
 ## I'm Dylan, a CS major @ Tufts
 
 ### Current Projects 🎨
-- 💻 **[Kleidi](https://kleidi.io)**, a user and payment manager suite.
+- 💻 **[Kleidi](https://kleidi.io)**, a user and payment management suite.
 - 📱 **[Ligocard](https://ligo.best)**, a virtual business card application.
 
 ### Open Source 🎯
