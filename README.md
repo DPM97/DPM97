@@ -16,7 +16,7 @@ I will be applying to summer 2021 internships. If you have any work inquiries yo
 - **[Email](mailto:dylan@kleidi.io)**
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DPM97&theme=cobalt" alt="DPM97's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DPM97&theme=cobalt&count_private=true&show_icons=true" alt="DPM97's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPM97&theme=cobalt&layout=compact" />
