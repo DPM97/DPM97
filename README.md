@@ -6,7 +6,7 @@
 - 📱 **[Ligocard](https://ligo.best)**, a virtual business card application.
 
 ### Open Source 🎯
-I often work on open source projects. Whether they are related to cars, sneakers, or any other coding-related concept I may find cool you can find them here. 
+I often work on open source projects. Feel free to take a look around. 
 - **[NPM](https://www.npmjs.com/~dpm97)**
 
 ### Contact 📬
