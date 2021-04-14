@@ -2,7 +2,7 @@
 ## I'm Dylan, a CS Undergrad @ Tufts
 
 ### Current Projects 🎨
-- 💻 **[Kleidi](https://kleidi.io)**, a user and payment management suite.
+- 💻 **[Kleidi](https://kleidi.io)**, an authentication and payment management suite.
 - 📱 **[Ligocard](https://ligo.best)**, a virtual business card application.
 
 ### Open Source 🎯
