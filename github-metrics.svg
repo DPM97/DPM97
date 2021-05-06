@@ -254,8 +254,16 @@
           animation-delay: 4.5600000000000005s;
         }
         
+      
+        .stdin:nth-of-type(12) {
+          animation-delay: 4.840000000000001s;
+        }
+        .stdout:nth-of-type(13) {
+          animation-delay: 5.000000000000001s;
+        }
+        
           footer {
-            animation-delay: 4.4s;
+            animation-delay: 4.840000000000001s;
           }
         
       
@@ -278,7 +286,7 @@
   followed by <b>43</b> users
 </div>
 <div class="stdin"><span class="ps1-path">dpm97@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1001</b> commits
+  <b> 1002</b> commits
   <b>    9</b> pull requests reviewed
   <b>   34</b> pull requests opened
   <b>    2</b> issues opened
