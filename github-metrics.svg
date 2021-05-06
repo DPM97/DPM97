@@ -254,16 +254,8 @@
           animation-delay: 4.5600000000000005s;
         }
         
-      
-        .stdin:nth-of-type(12) {
-          animation-delay: 4.840000000000001s;
-        }
-        .stdout:nth-of-type(13) {
-          animation-delay: 5.000000000000001s;
-        }
-        
           footer {
-            animation-delay: 4.840000000000001s;
+            animation-delay: 4.4s;
           }
         
       
@@ -286,7 +278,7 @@
   followed by <b>43</b> users
 </div>
 <div class="stdin"><span class="ps1-path">dpm97@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1002</b> commits
+  <b> 1003</b> commits
   <b>    9</b> pull requests reviewed
   <b>   34</b> pull requests opened
   <b>    2</b> issues opened
@@ -306,8 +298,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -1.24m +2.64m @@</span>
-</div>
+<span class="diff error">@@ An error occured @@</span></div>
 <div class="stdin"><span class="ps1-path">dpm97@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>HTML        </b> [######              ] 28.02%
 <b>C           </b> [#####               ] 24.37%
 <b>JAVASCRIPT  </b> [#####               ] 22.65%
