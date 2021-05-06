@@ -20,4 +20,7 @@ I often work on open source projects. Feel free to take a look around.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DPM97&theme=cobalt&layout=compact" />
 </a>
 
+![Metrics](https://github.com/my-github-user/DPM97/blob/master/github-metrics.svg)
+
+
 ![line](https://github.com/DPM97/DPM97/blob/master/line.gif)
