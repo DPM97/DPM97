@@ -278,7 +278,7 @@
   followed by <b>43</b> users
 </div>
 <div class="stdin"><span class="ps1-path">dpm97@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1000</b> commits
+  <b> 1001</b> commits
   <b>    9</b> pull requests reviewed
   <b>   34</b> pull requests opened
   <b>    2</b> issues opened
@@ -298,7 +298,7 @@ dr-x  <b>    0</b>  packages
 dr-x         LICENSE
 -r--         └── MIT
 
-<span class="diff">@@ -5.40k +27.2k @@</span>
+<span class="diff">@@ -1.24m +2.64m @@</span>
 </div>
 <div class="stdin"><span class="ps1-path">dpm97@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>HTML        </b> [######              ] 28.02%
 <b>C           </b> [#####               ] 24.37%
