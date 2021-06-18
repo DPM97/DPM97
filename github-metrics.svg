@@ -291,7 +291,7 @@
   <b>   79</b> repositories watched
 </div>
 <div class="stdin"><span class="ps1-path">dpm97@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 122 repositories - 663 MB
--r--  <b>   26</b>  stargazers
+-r--  <b>   27</b>  stargazers
 -r--  <b>    6</b>  forks
 -r--  <b>  133</b>  watchers
 dr-x  <b>    0</b>  packages
